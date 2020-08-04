@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title></title>
+		<meta http-equiv="Content-Type" content="text/html" charset="utf-8"/>
+		<meta http-equiv="Content-Security-Policy" content="default-src https://www.exile.digital;"/>
+		<meta http-equiv="Cache-Control" content="public; max-age=86400"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<link rel="stylesheet" type="text/css" href="/basedata/terminal.css" title="NXTerm"/>
+		<link rel="stylesheet alternate" href="/basedata/blank.css" title="None"/>
+		<link rel="author" href="/.well-known/humans.txt"/>
+		<link rel="security" href="/.well-known/security.txt"/>
+		<link rel="robots" href="/.well-known/robots.txt"/>
+		<link rel="license" href="http://creativecommons.org/licenses/by/4.0/"/>
+	</head>
+	<body>
+	</body>
+	<footer>
+		Unless otherwise specified, all articles on this site are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.<br>
+		Exile Heavy Industries images have all rights reserved.<br>
+	</footer>
+</html>
